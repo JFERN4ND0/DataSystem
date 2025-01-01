@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 5.1.1
+-- version 5.1.3
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: 127.0.0.1
--- Tiempo de generación: 04-04-2022 a las 13:04:04
--- Versión del servidor: 10.4.22-MariaDB
--- Versión de PHP: 8.1.1
+-- Tiempo de generación: 01-01-2025 a las 09:42:48
+-- Versión del servidor: 10.4.24-MariaDB
+-- Versión de PHP: 8.0.28
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -42,7 +42,7 @@ CREATE TABLE `clientes` (
 
 INSERT INTO `clientes` (`id_cliente`, `nombre_cliente`, `mail_cliente`, `tel_cliente`, `dir_cliente`, `ultima_modificacion`) VALUES
 (1, 'AngelGarcia', 'ag@ejemplo.com', '555555555', 'Avenida de las flores', 'juan_capturista'),
-(2, 'Roberto Alvarez', 'ra@ejemplo.com', '9514670474', 'Avenida alta #54', 'juan_capturista');
+(2, 'Roberto Alvarez', 'ra@ejemplo.com', '4444454444', 'Avenida alta #54', 'juan_capturista');
 
 -- --------------------------------------------------------
 
@@ -101,9 +101,7 @@ CREATE TABLE `usuarios` (
 INSERT INTO `usuarios` (`id_usuario`, `nombre_usuario`, `email`, `telefono`, `username`, `password`, `tipo_nivel`, `estatus`, `registrado_por`) VALUES
 (1, 'Fernando G', 'Fernando@ejem.com', '789456123', 'Fernando', '123456', 'Administrador', 'Activo', 'Fernando'),
 (2, 'Juan', 'juan@ejemplo.com', '456789123', 'juan_capturista', '123456', 'Capturista', 'Activo', 'Fernando'),
-(3, 'Gerardo Tellez', 'gerardo@ejemplo.com', '456789123', 'gerardo_tecnico', '123456', 'Tecnico', 'Activo', 'Fernando'),
-(6, 'Jose Guzman', 'ejemplo@ejem.com', '9514670422', 'JoseG', '654321', 'Capturista', 'Activo', 'Fernando'),
-(7, 'Abril Rubi', 'abril@ejemplo', '123456789', 'AbrilR', '123456', 'Administrador', 'Activo', 'Fernando');
+(3, 'Gerardo Tellez', 'gerardo@ejemplo.com', '456789123', 'gerardo_tecnico', '123456', 'Tecnico', 'Activo', 'Fernando');
 
 --
 -- Índices para tablas volcadas

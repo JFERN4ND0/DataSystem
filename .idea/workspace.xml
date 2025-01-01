@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf86d347-6d16-4343-a3f3-6d0c5a8cefda" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/AcercaDe.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/AcercaDe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/Administrador$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/Administrador$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/Administrador$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/Administrador$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/Administrador$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/Administrador$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/Administrador$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/Administrador$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/Administrador$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/Administrador$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/Administrador$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/Administrador$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/Administrador.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/Administrador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/Capturista$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/Capturista$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/Capturista$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/Capturista$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/Capturista$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/Capturista$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/Capturista.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/Capturista.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/GestionarClientes.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/GestionarClientes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/GestionarEquipos$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/GestionarEquipos$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/GestionarEquipos$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/GestionarEquipos$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/GestionarEquipos.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/GestionarEquipos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/GestionarUsuarios$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/GestionarUsuarios$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/GestionarUsuarios.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/GestionarUsuarios.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/GestionarUsuarios.form" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/GestionarUsuarios.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/GraficaEstatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/GraficaEstatus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/GraficaMarcas.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/GraficaMarcas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/InformacionEquipo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/InformacionEquipo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/InformacionEquipo$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/InformacionEquipo$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/InformacionEquipo.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/InformacionEquipo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/InformacionEquipoTecnico$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/InformacionEquipoTecnico$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/InformacionEquipoTecnico$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/InformacionEquipoTecnico$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/InformacionEquipoTecnico.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/InformacionEquipoTecnico.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/InformacionUsuario$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/InformacionUsuario$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/InformacionUsuario$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/InformacionUsuario$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/InformacionUsuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/InformacionUsuario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/Informacion_Cliente$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/Informacion_Cliente$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/Informacion_Cliente$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/Informacion_Cliente$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/Informacion_Cliente$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/Informacion_Cliente$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/Informacion_Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/Informacion_Cliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/Login$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/Login$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/RegistrarClientes$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/RegistrarClientes$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/RegistrarClientes.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/RegistrarClientes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/RegistrarEquipo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/RegistrarEquipo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/RegistrarEquipo.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/RegistrarEquipo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/RegistrarUsuarios$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/RegistrarUsuarios$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/RegistrarUsuarios.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/RegistrarUsuarios.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/RestaurarPassword$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/RestaurarPassword$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/RestaurarPassword.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/RestaurarPassword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/Tecnico$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/Tecnico$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/Tecnico$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/Tecnico$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/Tecnico$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/Tecnico$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ventanas/Tecnico.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ventanas/Tecnico.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/private/private.properties" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/private/private.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ventanas/GestionarUsuarios.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/ventanas/GestionarUsuarios.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ventanas/GestionarUsuarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ventanas/GestionarUsuarios.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2o37BeHucgd9YtuCUtK6g2RF5nS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/pepe1/Documents/Desarrollo_Web/PáginaWeb/DataSystemWeb"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf86d347-6d16-4343-a3f3-6d0c5a8cefda" name="Changes" comment="" />
+      <created>1730086271380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730086271380</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

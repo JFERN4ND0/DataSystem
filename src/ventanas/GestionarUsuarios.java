@@ -120,6 +120,8 @@ public class GestionarUsuarios extends javax.swing.JFrame {
         jLabel1.setText("Usuarios registrados");
         getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 10, -1, -1));
 
+        jScrollPane1.setToolTipText("");
+
         jTable_usuarios.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
                 {null, null, null, null},
